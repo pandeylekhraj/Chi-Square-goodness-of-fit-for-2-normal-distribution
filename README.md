@@ -1,0 +1,1 @@
+# Chi-Square-goodness-of-fit-for-2-normal-distribution
